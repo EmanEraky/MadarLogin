@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.egifix.madarlogin.app-mergeDebugResources-37:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Android2\\.jdks\\corretto-1.8.0_312\\caches\\transforms-3\\adb42ba8678d502252cd257b2b8b2899\\transformed\\appcompat-1.5.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

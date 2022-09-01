@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c7d35b96ce66a3b55d06a3dc5fbe2154\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a2eef7c70f6aec2df47cc0658630a87c\transformed\databinding-ktx-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\85dea4834ee9f076fc944fdfbc96858f\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c2f6e3f52f1d862ea0ba497e7023cc95\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\aa8da05fccbb176074101c4cc0f3ebb2\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f9b9ab1c33ec02193569e1a0b1b46d3d\transformed\room-ktx-2.4.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\157ca9293d360ec1f2d0c6eccdcb04e4\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.39.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\37c72eef98329d9b6f696581234d96cc\transformed\hilt-android-2.39.1\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a058a455f3a42920e8b7d1d453df2b8e\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\950d2b03217186de2ea8d42de8424b30\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\1e1deb0bbf6757d244fc23f1a62df77e\transformed\appcompat-resources-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\adb42ba8678d502252cd257b2b8b2899\transformed\appcompat-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a750e2c58d8ca752dee1ea166c368689\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\42142e0ce353adbd53d41ec5cd6e8e62\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cb03341396258e8091568f84be5dfd15\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c80caaf4e1c790255231fe5aec7c5b3c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\47a3790e964e865565b572a6dda50f5f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a80394ca60f2b51a6b862385a74e1884\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\8c890939bc5d4ae87ab153d18fd12cb9\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\34609cf1075ccc029623f5da24f0fa21\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\da9fdfd21feeead12d05dfdd37b136fc\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9dd2918c2e44b48085d1abc4ed9a7060\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\b30db773e87398320cd394686586883d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9e8108c71b6bf6f16a5e511080bab9a9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\804ed8e14a7313b251e368182d95bf68\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\3115d73425307458c472ec61a8c1b47b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\87248211d5a50f2d0d722f81b3ef8974\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\02d3860c631f345835b78cf9dbb85159\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\196f7f40165ed7577fa4170882028ded\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\4b1a98ac644872fea6570b51ebf09ade\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7f69fe170a7829682947b7ccc7a49bc3\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e0f3421b7570631703a774cd1f1a6aa8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\3319f1b60e490b04b870fa4c9e095486\transformed\viewbinding-7.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f6a68474fe89adb94c0a1dcefeae8133\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9eb54c5ff57371dd3564ba364986313d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\33a750be69af765a318cf7651be1a010\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\50311558bc356a2c6bdf43b008486b1a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\208677a09a5076f760388f2da6262f12\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a72d089e75b09c62af8322cb214b6ee3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\40579ab0bc8749cc0245be18d63cac40\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e794260095d17910f0b155c2adbaaae1\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7c2e5d514f92ada93aa2be702a0a65ff\transformed\sqlite-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f20f57854d0db140d9f6a2d8ba325acf\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\eaff561f4ad4acd123bc22a1b81446f0\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cf07af35c591c8ce20d15340be868172\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9904255d04d6d0721d5f79e1b0eeb391\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\2c22039facef445a7b56b25a05bea6f4\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\26abd002c1e498c47f16553744b4cfa5\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\d66234ef429c288cd093aeb09b431a8f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\631a83e0c1769f9280ff16b15a7c7ca9\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c48ed6ff337174b35d104d150d0a3768\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.39.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\b768b6aff4557dd5a1c032a1a7805c63\transformed\dagger-lint-aar-2.39.1\AndroidManifest.xml:16:1-19:12
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:6:5-29:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a058a455f3a42920e8b7d1d453df2b8e\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a058a455f3a42920e8b7d1d453df2b8e\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\950d2b03217186de2ea8d42de8424b30\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\950d2b03217186de2ea8d42de8424b30\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7f69fe170a7829682947b7ccc7a49bc3\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7f69fe170a7829682947b7ccc7a49bc3\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e0f3421b7570631703a774cd1f1a6aa8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e0f3421b7570631703a774cd1f1a6aa8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cf07af35c591c8ce20d15340be868172\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cf07af35c591c8ce20d15340be868172\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7f69fe170a7829682947b7ccc7a49bc3\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:13:9-54
+	tools:targetApi
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:15:9-48
+	android:dataExtractionRules
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:9:9-65
+	android:name
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:7:9-28
+activity#com.egifix.madarlogin.presenter.ui.users.UsersActivity
+ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:18:13-61
+activity#com.egifix.madarlogin.presenter.ui.main.MainActivity
+ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:exported
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:21:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c7d35b96ce66a3b55d06a3dc5fbe2154\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c7d35b96ce66a3b55d06a3dc5fbe2154\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a2eef7c70f6aec2df47cc0658630a87c\transformed\databinding-ktx-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a2eef7c70f6aec2df47cc0658630a87c\transformed\databinding-ktx-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\85dea4834ee9f076fc944fdfbc96858f\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\85dea4834ee9f076fc944fdfbc96858f\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c2f6e3f52f1d862ea0ba497e7023cc95\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c2f6e3f52f1d862ea0ba497e7023cc95\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\aa8da05fccbb176074101c4cc0f3ebb2\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\aa8da05fccbb176074101c4cc0f3ebb2\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f9b9ab1c33ec02193569e1a0b1b46d3d\transformed\room-ktx-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f9b9ab1c33ec02193569e1a0b1b46d3d\transformed\room-ktx-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\157ca9293d360ec1f2d0c6eccdcb04e4\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\157ca9293d360ec1f2d0c6eccdcb04e4\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.39.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\37c72eef98329d9b6f696581234d96cc\transformed\hilt-android-2.39.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.39.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\37c72eef98329d9b6f696581234d96cc\transformed\hilt-android-2.39.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a058a455f3a42920e8b7d1d453df2b8e\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a058a455f3a42920e8b7d1d453df2b8e\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\950d2b03217186de2ea8d42de8424b30\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\950d2b03217186de2ea8d42de8424b30\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\1e1deb0bbf6757d244fc23f1a62df77e\transformed\appcompat-resources-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\1e1deb0bbf6757d244fc23f1a62df77e\transformed\appcompat-resources-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\adb42ba8678d502252cd257b2b8b2899\transformed\appcompat-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\adb42ba8678d502252cd257b2b8b2899\transformed\appcompat-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a750e2c58d8ca752dee1ea166c368689\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a750e2c58d8ca752dee1ea166c368689\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\42142e0ce353adbd53d41ec5cd6e8e62\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\42142e0ce353adbd53d41ec5cd6e8e62\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cb03341396258e8091568f84be5dfd15\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cb03341396258e8091568f84be5dfd15\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c80caaf4e1c790255231fe5aec7c5b3c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c80caaf4e1c790255231fe5aec7c5b3c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\47a3790e964e865565b572a6dda50f5f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\47a3790e964e865565b572a6dda50f5f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a80394ca60f2b51a6b862385a74e1884\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a80394ca60f2b51a6b862385a74e1884\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\8c890939bc5d4ae87ab153d18fd12cb9\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\8c890939bc5d4ae87ab153d18fd12cb9\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\34609cf1075ccc029623f5da24f0fa21\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\34609cf1075ccc029623f5da24f0fa21\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\da9fdfd21feeead12d05dfdd37b136fc\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\da9fdfd21feeead12d05dfdd37b136fc\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9dd2918c2e44b48085d1abc4ed9a7060\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9dd2918c2e44b48085d1abc4ed9a7060\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\b30db773e87398320cd394686586883d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\b30db773e87398320cd394686586883d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9e8108c71b6bf6f16a5e511080bab9a9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9e8108c71b6bf6f16a5e511080bab9a9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\804ed8e14a7313b251e368182d95bf68\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\804ed8e14a7313b251e368182d95bf68\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\3115d73425307458c472ec61a8c1b47b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\3115d73425307458c472ec61a8c1b47b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\87248211d5a50f2d0d722f81b3ef8974\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\87248211d5a50f2d0d722f81b3ef8974\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\02d3860c631f345835b78cf9dbb85159\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\02d3860c631f345835b78cf9dbb85159\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\196f7f40165ed7577fa4170882028ded\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\196f7f40165ed7577fa4170882028ded\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\4b1a98ac644872fea6570b51ebf09ade\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\4b1a98ac644872fea6570b51ebf09ade\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7f69fe170a7829682947b7ccc7a49bc3\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7f69fe170a7829682947b7ccc7a49bc3\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e0f3421b7570631703a774cd1f1a6aa8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e0f3421b7570631703a774cd1f1a6aa8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\3319f1b60e490b04b870fa4c9e095486\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\3319f1b60e490b04b870fa4c9e095486\transformed\viewbinding-7.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f6a68474fe89adb94c0a1dcefeae8133\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f6a68474fe89adb94c0a1dcefeae8133\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9eb54c5ff57371dd3564ba364986313d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9eb54c5ff57371dd3564ba364986313d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\33a750be69af765a318cf7651be1a010\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\33a750be69af765a318cf7651be1a010\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\50311558bc356a2c6bdf43b008486b1a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\50311558bc356a2c6bdf43b008486b1a\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\208677a09a5076f760388f2da6262f12\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\208677a09a5076f760388f2da6262f12\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a72d089e75b09c62af8322cb214b6ee3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a72d089e75b09c62af8322cb214b6ee3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\40579ab0bc8749cc0245be18d63cac40\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\40579ab0bc8749cc0245be18d63cac40\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e794260095d17910f0b155c2adbaaae1\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e794260095d17910f0b155c2adbaaae1\transformed\sqlite-framework-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7c2e5d514f92ada93aa2be702a0a65ff\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\7c2e5d514f92ada93aa2be702a0a65ff\transformed\sqlite-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f20f57854d0db140d9f6a2d8ba325acf\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\f20f57854d0db140d9f6a2d8ba325acf\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\eaff561f4ad4acd123bc22a1b81446f0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\eaff561f4ad4acd123bc22a1b81446f0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cf07af35c591c8ce20d15340be868172\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cf07af35c591c8ce20d15340be868172\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9904255d04d6d0721d5f79e1b0eeb391\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\9904255d04d6d0721d5f79e1b0eeb391\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\2c22039facef445a7b56b25a05bea6f4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\2c22039facef445a7b56b25a05bea6f4\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\26abd002c1e498c47f16553744b4cfa5\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\26abd002c1e498c47f16553744b4cfa5\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\d66234ef429c288cd093aeb09b431a8f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\d66234ef429c288cd093aeb09b431a8f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\631a83e0c1769f9280ff16b15a7c7ca9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\631a83e0c1769f9280ff16b15a7c7ca9\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c48ed6ff337174b35d104d150d0a3768\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\c48ed6ff337174b35d104d150d0a3768\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.39.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\b768b6aff4557dd5a1c032a1a7805c63\transformed\dagger-lint-aar-2.39.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.39.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\b768b6aff4557dd5a1c032a1a7805c63\transformed\dagger-lint-aar-2.39.1\AndroidManifest.xml:18:3-42
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+		ADDED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MadarLogin\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.3] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\5da907e1d3d96dab41a8f9900307c650\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cf07af35c591c8ce20d15340be868172\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\cf07af35c591c8ce20d15340be868172\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\a098e3725e9c34ac9462bf27993116bf\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Android2\.jdks\corretto-1.8.0_312\caches\transforms-3\e7973f26d7d243cd57a72d4082b186e3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
